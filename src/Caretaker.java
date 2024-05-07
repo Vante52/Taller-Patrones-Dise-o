@@ -1,3 +1,5 @@
+package src;
+
 import java.util.Stack;
 public class Caretaker {
     private Stack<Memento> mementoStack = new Stack<>();
